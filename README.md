@@ -48,4 +48,19 @@ Cross-Platform Access: As a cloud-based tool, Figma runs in the browser and supp
 
 Version History: Automatically saves design history, allowing you to track changes or revert to previous versions.
 
+
+
+Real-World Scenario: Wireframing Prevents Usability Issues
+Scenario:
+A team was developing a university course registration platform. During the wireframing stage, they created low-fidelity mockups of the student dashboard, including the course selection interface.
+
+Identified Issue:
+User testing of the wireframe revealed that students found it confusing to navigate between available courses and their selected schedule. The layout buried important actions like “Add to Schedule” and “View Conflicts,” causing users to overlook key features.
+
+Resolution:
+Based on this feedback, the team restructured the wireframe—placing course actions more prominently and grouping related tasks in tabs. They also added visual indicators for schedule conflicts directly in the wireframe.
+
+Impact on the Final Product:
+These early changes led to a more intuitive design. By the time the development phase began, usability issues were already addressed, saving development time and improving the overall user experience. Post-launch feedback confirmed higher user satisfaction and fewer support requests.
+
 Plugins and Templates: Access a vast library of plugins and community-built wireframe kits to speed up your workflow.
