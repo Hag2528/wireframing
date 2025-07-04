@@ -12,3 +12,32 @@ Improves User Experience (UX): By focusing on layout and usability, wireframes a
 Facilitates Collaboration and Feedback: Wireframes act as a communication tool among team members and clients, enabling clear discussions about layout and user flow.
 
 Saves Time and Resources: Making changes to a wireframe is far less costly and time-consuming than modifying a fully developed interface.
+
+
+Popular Wireframing Tools
+There are many tools available for creating wireframes, each offering different features to suit various needs. Here are a few widely used wireframing tools:
+
+Balsamiq: Known for its sketch-style interface, Balsamiq is great for low-fidelity wireframes and quick mockups.
+
+Adobe XD: Offers both wireframing and high-fidelity design capabilities with strong prototyping features.
+
+Sketch: Popular among macOS users, Sketch provides robust design tools ideal for UI/UX design and wireframing.
+
+Axure RP: A powerful tool for advanced wireframes and interactive prototypes with conditional logic and dynamic content.
+
+Figma: A cloud-based design tool that has become a favorite among designers for its collaboration features and ease of use.
+
+Recommended Tool: Figma
+Overview
+Figma is a browser-based design and prototyping tool that enables real-time collaboration among team members. It is widely used for UI/UX design, including wireframing, prototyping, and high-fidelity mockups.
+
+Key Features for Wireframing
+Real-Time Collaboration: Multiple users can work on the same wireframe simultaneously, making it ideal for team environments.
+
+Drag-and-Drop Interface: Intuitive tools and pre-built UI components make it easy to create clean wireframes quickly.
+
+Cross-Platform Access: As a cloud-based tool, Figma runs in the browser and supports Windows, macOS, and even Linux.
+
+Version History: Automatically saves design history, allowing you to track changes or revert to previous versions.
+
+Plugins and Templates: Access a vast library of plugins and community-built wireframe kits to speed up your workflow.
